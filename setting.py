@@ -78,7 +78,7 @@ MAX_FAIL_COUNT = 0
 # MAX_FAIL_RATE = 0.1
 
 # proxyCheck时代理数量少于POOL_SIZE_MIN触发抓取
-POOL_SIZE_MIN = 20
+POOL_SIZE_MIN = 100
 
 # ############# proxy attributes #################
 # 是否启用代理地域属性
